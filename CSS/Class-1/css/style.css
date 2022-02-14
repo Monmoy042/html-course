@@ -1,0 +1,26 @@
+h1 {
+  color: goldenrod;
+}
+/* p {
+  color: beige;
+  background-color: black;
+} */
+.heading-2 {
+  color: brown;
+  background-color: aliceblue;
+}
+#my-heading {
+  color: blue;
+  background-color: aqua;
+}
+.text-1 {
+  color: #e0741c;
+}
+#para-1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+/* 
+color: 1. Name 2. RGB 3. Hexa Code 4. HSV 5. HSL
+*/
