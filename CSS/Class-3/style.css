@@ -1,0 +1,72 @@
+.my-text {
+  color: #fff;
+  background-color: #000;
+  /* padding: 15px; */
+  /* padding-left: 15px;
+  padding-right: 15px; */
+  /* padding: 0px 15px 30px 5px; */
+  padding: 0px 15px;
+
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+  text-transform: none;
+}
+/* ul {
+  background-color: aqua;
+  list-style: none;
+} */
+/* ul li a {
+  text-decoration: none;
+  color: #000;
+  padding: 10px;
+} */
+/* ul li {
+  padding: 20px;
+  display: inline;
+} */
+/* ul li a:hover {
+  background-color: green;
+  color: #fff;
+}
+ul:hover {
+  background-color: red;
+  color: #fff;
+} */
+
+/* MenuBar Style */
+.menubar {
+  background-color: aliceblue;
+}
+.menubar li {
+  display: inline;
+  padding: 20px;
+}
+.menubar li a {
+  color: #000;
+  text-decoration: none;
+}
+.menubar li a:hover {
+  background-color: red;
+  color: #fff;
+}
+
+/* Website Layout */
+.first-div {
+  background-color: orange;
+  border: 2px solid red;
+  padding: 10px;
+  width: 300px;
+  height: 400px;
+  float: right;
+}
+.second-div {
+  background-color: salmon;
+  color: #fff;
+  border: 2px solid black;
+  width: 300px;
+  height: 400px;
+  float: left;
+  padding: 10px;
+  margin-right: 20px;
+}

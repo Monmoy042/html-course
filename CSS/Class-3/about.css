@@ -1,0 +1,16 @@
+/* MenuBar Style */
+.menubar {
+  background-color: aliceblue;
+}
+.menubar li {
+  display: inline;
+  padding: 20px;
+}
+.menubar li a {
+  color: #000;
+  text-decoration: none;
+}
+.menubar li a:hover {
+  background-color: red;
+  color: #fff;
+}
