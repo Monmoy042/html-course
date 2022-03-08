@@ -1,0 +1,98 @@
+/* .text-1 {
+  color: brown;
+  border: 2px solid green;
+}
+.text-2,
+.text-4 {
+  text-transform: uppercase;
+}
+.text-4 {
+  color: black;
+} */
+
+/* Project Style */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main-header {
+  width: 100%;
+}
+.logo-section {
+  width: 30%;
+}
+.logo-section img {
+  width: 68px;
+  height: 68px;
+  float: left;
+}
+.menubar {
+  width: 70%;
+  float: left;
+}
+.menubar ul {
+  margin-top: 20px;
+}
+
+.menubar ul li {
+  display: inline;
+  padding: 5px;
+}
+.menubar ul li a {
+  text-decoration: none;
+  color: #000;
+}
+.menubar ul li a:hover {
+  background-color: red;
+}
+
+/* Main Content style */
+.main-content-section {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.main-content-image {
+  width: 30%;
+  float: left;
+  /* margin-left: 10px; */
+}
+.main-content-image img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+.main-content-detail {
+  width: 65%;
+  float: left;
+  background-color: antiquewhite;
+  padding: 10px;
+  border-radius: 10px;
+}
+.main-btn {
+  width: 120px;
+  height: 40px;
+  margin-top: 10px;
+  background-color: blueviolet;
+  color: #fff;
+  font-size: 20px;
+  border: 2px solid red;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.main-btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Footer Section Style */
+.footer-section {
+  background-color: #000;
+  padding: 50px;
+}
+
+.footer-section p {
+  text-align: center;
+  color: #fff;
+}
